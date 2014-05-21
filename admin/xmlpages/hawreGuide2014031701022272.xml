@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Guide TotalPages="4">
+  <guideTitle>Open25Guide</guideTitle>
+  <guideName>hawreGuide2014031701022272</guideName>
+  <Page number="1">
+    <content type="Statement">Welcome to Open 25</content>
+    <content type="Image">myw3schoolsimage.jpg</content>
+    <content type="Statement">The works in this exhibition are made by local artists and there are lots of different kinds of work</content>
+  </Page>
+  <Page number="2">
+    <content type="Question Type5" option1="a)&#9;The death star" option2="b)&#9;The mine" option3="c)&#9;The blossom" option4="" option5="">1. What is Ninja Cole hiding in? modified</content>
+    <content type="Question Type5" option1="a) Ninja Cole" option2="b) A lion" option3="c) A fox" option4="" option5="">2. What kind of an animal is ambushing the heron? </content>
+    <content type="Question Type4" option1="a) Coal" option2="b) Sea life" option3="c) Tiny, tiny people" option4="" option5="">3. What is the giant whale made of?</content>
+    <content type="Question Type4" option1="a) Leviathan" option2="b) Kraken " option3="c) Bob" option4="" option5="">4. What is the name of the octopus monster?</content>
+  </Page>
+  <Page number="3">
+    <content type="Question Type5" option1="a) plaster, fabric and wire" option2="b) clay" option3="c) gold" option4="" option5="">5. Is the parachuting man made of </content>
+    <content type="Question Type4" option1="a) Poorly" option2="b) Mr Quirk" option3="c) William Shakespeare" option4="" option5="">6. Can you find the half man half skeleton picture? Is the man</content>
+    <content type="Question Type4" option1="a) Ceramic" option2="b) Paint" option3="c) Green jelly" option4="" option5="">7. What is Howlin Wolf made of?</content>
+  </Page>
+  <Page number="4">
+    <content type="Question Type1">8a. Which artwork would you like to have? </content>
+    <content type="Question Type1">8b. and where would you put it in your home?</content>
+    <content type="Question Type3">9a. There are lots of pictures of people here called portraits. How many can you see? </content>
+    <content type="Question Type2">9b. Can you see any other things, or subjects, that more than one person has painted?  What are they and how many can you see?</content>
+    <content type="Question Type1">10a. What would you paint, draw or make to go in this exhibition?  </content>
+    <content type="Question Type6">10b. Upload picture or drawing?</content>
+  </Page>
+</Guide>

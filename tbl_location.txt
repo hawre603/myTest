@@ -1,0 +1,41 @@
+-- phpMyAdmin SQL Dump
+-- version 4.0.6
+-- http://www.phpmyadmin.net
+--
+-- Host: 127.0.0.1
+-- Generation Time: May 07, 2014 at 12:00 AM
+-- Server version: 5.5.33
+-- PHP Version: 5.5.3
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+--
+-- Database: `musuemdata`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `tbl_location`
+--
+
+CREATE TABLE `tbl_location` (
+  `loc_id` int(10) NOT NULL AUTO_INCREMENT,
+  `loc_name` varchar(60) NOT NULL,
+  `loc_latitude` decimal(10,0) NOT NULL,
+  `loc_longtuide` decimal(10,0) NOT NULL,
+  `loc_adress` varchar(200) NOT NULL,
+  `guide_status` int(11) NOT NULL,
+  `create_date` date NOT NULL,
+  `created_by` varchar(50) NOT NULL,
+  PRIMARY KEY (`loc_id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+
+--
+-- Dumping data for table `tbl_location`
+--
+
+INSERT INTO `tbl_location` (`loc_id`, `loc_name`, `loc_latitude`, `loc_longtuide`, `loc_adress`, `guide_status`, `create_date`, `created_by`) VALUES
+(1, '', 0, 0, '', 0, '0000-00-00', ''),
+(2, 'HAWRE', 0, 0, '', 1, '2014-05-06', 'hawre');

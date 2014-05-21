@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Guide TotalPages="1">
+  <guideTitle>Local Test</guideTitle>
+  <guideName>newuserGuide201403042351061</guideName>
+  <Page number="1">
+    <content type="Statement">my local guide</content>
+    <content type="Question Type2">Multiple line</content>
+    <content type="Question Type5" option1="Multiple choice1" option2="Multiple choice2" option3="Multiple choice3" option4="" option5="">Multiple choice</content>
+  </Page>
+</Guide>

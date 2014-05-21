@@ -1,0 +1,38 @@
+	
+	
+	.ui-page { 
+		background:gray
+		}
+           
+	.outerDiv{
+        padding: .2em .2em .2em .2em; 
+		background-color: #D0D0D0 ; 
+		text-align: center;
+		margin: auto;
+		
+		}
+            
+	.innerDiv{
+        padding: 1em; 
+		background-color:white ; 
+		text-align: center; 
+		color: black; 
+		font-family: verdana, sans-serif,cursive;
+		margin:0 auto;
+        }
+		
+	/***************************************************************************************
+	*    Title: Simple Styles for <hr>'s
+	*    Date: 2013
+	*    Availability:	http://css-tricks.com/examples/hrs/
+	****************************************************************************************/
+	hr.imgBorder {
+		height: 12px;
+		border: 0;
+		box-shadow: inset 0 12px 12px -12px rgba(222,222,255,225);
+	}
+	
+	.imgs{
+		max-width:98%;
+		}
+		

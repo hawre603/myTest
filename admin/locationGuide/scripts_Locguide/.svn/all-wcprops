@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hkaa1/!svn/ver/129/code/trunk/admin/locationGuide/scripts_Locguide
+END
+updxmLocguide.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hkaa1/!svn/ver/140/code/trunk/admin/locationGuide/scripts_Locguide/updxmLocguide.php
+END
+genxmLocguide.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hkaa1/!svn/ver/250/code/trunk/admin/locationGuide/scripts_Locguide/genxmLocguide.php
+END
+updateLocGuideRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hkaa1/!svn/ver/142/code/trunk/admin/locationGuide/scripts_Locguide/updateLocGuideRecord.php
+END
+geneHtmlCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hkaa1/!svn/ver/250/code/trunk/admin/locationGuide/scripts_Locguide/geneHtmlCode.php
+END
+parseLocGudeXML.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hkaa1/!svn/ver/250/code/trunk/admin/locationGuide/scripts_Locguide/parseLocGudeXML.php
+END
+deletelocguide.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hkaa1/!svn/ver/251/code/trunk/admin/locationGuide/scripts_Locguide/deletelocguide.php
+END
+addLocGuide.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hkaa1/!svn/ver/252/code/trunk/admin/locationGuide/scripts_Locguide/addLocGuide.php
+END
+Loc_photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hkaa1/!svn/ver/250/code/trunk/admin/locationGuide/scripts_Locguide/Loc_photo.php
+END

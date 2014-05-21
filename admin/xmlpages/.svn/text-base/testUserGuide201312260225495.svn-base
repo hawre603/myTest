@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Guide TotalPages="3">
+  <guideTitle>Guide to the 12 Days</guideTitle>
+  <guideName>testUserGuide201312260225495</guideName>
+  <Page number="1">
+    <content type="Statement"> On the 12 days of Christmas my true love sent to me:</content>
+    <content type="Image">teaser_Paderborn-WEIHNMA05_2-048_300x200.jpg</content>
+    <content type="Question Type1">A partridge in a what sort of tree?</content>
+    <content type="Question Type3">How many turtle doves?</content>
+    <content type="Question Type2">How do you cook 3 French hens (and what is French about them anyway)?</content>
+    <content type="Question Type4" option1="4 Calling Birds" option2="3 French Hens" option3="2 Turtle Doves" option4="and a Partridge in a Pear Tree" option5="">Chose one</content>
+  </Page>
+  <Page number="2">
+    <content type="Statement"> On the 12 days of Christmas my true love sent to me:</content>
+    <content type="Question Type5" option1="8 Maids a Milking" option2="7 Swans a Swimming" option3="6 Geese a Laying" option4="5 Golden Rings" option5=" and several other things">Chose all applicable options</content>
+  </Page>
+  <Page number="3">
+    <content type="Statement"> On the 12 days of Christmas my true love sent to me:</content>
+    <content type="Question Type6">Draw and upload a picture of 9 Ladies Dancing</content>
+    <content type="Question Type2">Can you remember the remaining 3 gifts? Please list them below.</content>
+  </Page>
+</Guide>

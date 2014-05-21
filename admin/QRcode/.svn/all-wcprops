@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hkaa1/!svn/ver/108/code/trunk/admin/QRcode
+END
+qrgenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hkaa1/!svn/ver/197/code/trunk/admin/QRcode/qrgenerator.php
+END
+qrconst.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrconst.php
+END
+printQrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hkaa1/!svn/ver/199/code/trunk/admin/QRcode/printQrcode.php
+END
+homeQR.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hkaa1/!svn/ver/200/code/trunk/admin/QRcode/homeQR.php
+END
+qrgenerateProcess.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hkaa1/!svn/ver/198/code/trunk/admin/QRcode/qrgenerateProcess.php
+END
+qrspec.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrspec.php
+END
+qrbitstream.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrbitstream.php
+END
+qrsplit.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrsplit.php
+END
+qrmask.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrmask.php
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/VERSION
+END
+qrencode.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrencode.php
+END
+qrinput.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrinput.php
+END
+qrtools.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrtools.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/README
+END
+qrconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrconfig.php
+END
+qrlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrlib.php
+END
+fancybox.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hkaa1/!svn/ver/201/code/trunk/admin/QRcode/fancybox.css
+END
+qrrscode.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrrscode.php
+END
+qrimage.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/qrimage.php
+END
+phpqrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hkaa1/!svn/ver/109/code/trunk/admin/QRcode/phpqrcode.php
+END

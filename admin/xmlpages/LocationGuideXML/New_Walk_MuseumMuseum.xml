@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<locGuide TotalPages="1">
+  <LocationName>New Walk MuseumMuseum</LocationName>
+  <locFileName>New_Walk_MuseumMuseum</locFileName>
+  <LocationAddress>New Walk Museum, 53 New Walk Leicester, LE1 7EA</LocationAddress>
+  <LocationLatitude>52.6289384</LocationLatitude>
+  <LocationLongitude>-1.127775</LocationLongitude>
+  <LocationImage>myw3schoolsimage.jpg</LocationImage>
+  <LocationDescription>hawre</LocationDescription>
+  <Status>1</Status>
+  <Page number="1">
+    <content type="Statement">it is working</content>
+    <content type="Question Type1">hopfuly </content>
+    <content type="Question Type5" option1="hi" option2="hi" option3="hi" option4="" option5="">hi </content>
+  </Page>
+</locGuide>

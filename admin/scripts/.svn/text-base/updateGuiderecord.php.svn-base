@@ -1,0 +1,22 @@
+<?php
+$name='hawreGuide2014051620011056';
+$title='hawre_testhh';
+$usr='hawre';
+
+
+	function updGuide($usr, $title, $name){
+	include 'dbCon.php';
+	
+	$dt= date('Y/m/d');										//records date
+	
+	
+	$sql = "UPDATE members SET by = '$usr', title = '$title', 
+			date='$dt'
+			WHERE name='$name'";
+			
+			mysqli_query($dbCon,$sql);									//if user exists, change privilege
+			header("Location: ../actioncomplete.php");
+	
+					//execute addition
+	}
+?>

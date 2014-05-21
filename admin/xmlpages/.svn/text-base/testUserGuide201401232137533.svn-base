@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Guide TotalPages="1">
+  <guideTitle>MyTestPage&amp;Guide</guideTitle>
+  <guideName>testUserGuide201401232137533</guideName>
+  <Page number="1">
+    <content type="Image">1010947_435000389941131_2030984042_n.jpg</content>
+    <content type="Statement">Test Page</content>
+    <content type="Question Type4" option1="test2SingleiChoice1" option2="test2SingleiChoice2" option3="test2SingleiChoice3" option4="" option5="">test2SingleiChoice</content>
+    <content type="Question Type5" option1="test2MuktiChoice1" option2="test2MuktiChoice2" option3="test2MuktiChoice3" option4="" option5="">test2MuktiChoice</content>
+  </Page>
+</Guide>
